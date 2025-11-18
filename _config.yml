@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Milo Qureshi
+description: Game Designer | RIT | motto
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /site #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
+linkedin: "https://www.linkedin.com/in/milo-qureshi/"
+# stackoverflow: "#"
+github: "https://github.com/milosneptune"
 researchgate: "#"
 orcid: "#"
 quora: "#"
