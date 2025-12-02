@@ -8,20 +8,16 @@ url: "https://milosneptune.github.io" #custom url to be used instead of GitHub r
 email: #
 
 # Pagination
+# TODO making the archive into a side bar to navigate through blog posts, rather than its own page
+# TODO making project post structures column based
+
 paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
 linkedin: "milo-qureshi"
-# stackoverflow: "#"
 github: "milosneptune"
-# researchgate: "#"
-# orcid: "#"
-# quora: "#"
-# instagram: "#"
-# facebook: "#"
-# bluesky: "#"
 itch: "milosneptune"
 sketchfab: "squeakyhammer"
 
