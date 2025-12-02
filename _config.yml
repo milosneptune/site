@@ -13,15 +13,17 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/milo-qureshi/"
+linkedin: "milo-qureshi"
 # stackoverflow: "#"
-github: "https://github.com/milosneptune"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+github: "milosneptune"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
+# bluesky: "#"
+itch: "milosneptune"
+sketchfab: "squeakyhammer"
 
 # Markdown
 highlighter: rouge
@@ -47,12 +49,10 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - jelly-beach.md
+      - rig-my-roll.md
+      - starlit-wanderer.md
+      - path-remembrance.md
 
 sass:
   sass_dir: /assets/css/_sass

@@ -23,8 +23,8 @@ I wish to utilize the multidisciplinary aspect of games and prove how versatile 
 
 I'm furthering my knowledge in object-oriented programming languages, game engines, and web development. I'm seeking internships in interactive media, software development, web development, and 3D modeling to advance my own skills. 
 
-### Also, check out:
+<!-- ### Also, check out: -->
 
-Something will be here? Not sure what yet!
+<!-- Something will be here? Not sure what yet! -->
 <!-- - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog -->
